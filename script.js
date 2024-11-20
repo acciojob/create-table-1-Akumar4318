@@ -5,8 +5,8 @@ function insert_Row() {
     let newcell1=document.createElement('td')
     let newcell2=document.createElement('td')
 
-    newcell1.innerHTML="NewCell1"
-    newcell2.innerHTML="NewCell2"
+    newcell1.innerHTML="New Cell1"
+    newcell2.innerHTML="New Cell2"
 
     newrow.appendChild(newcell1)
     newrow.appendChild(newcell2)
